@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # What does this repository contain?
 
 This repository contains a project that was developed for Software Engineering course on Technical University of Lodz.
